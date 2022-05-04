@@ -1,0 +1,14 @@
+.header{ 
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ display: flex; 
+ flex-direction: column;
+ background-color: #1F2937;
+}
+
+ul{
+ padding: 0;
+ margin: 0; 
+ list-style-type: none;
+ display: flex; 
+ justify-content: space-between;
+}
